@@ -1,4 +1,4 @@
-﻿
+﻿NEW STRING
 #include "pch.h"
 #include <iostream>
 #include <time.h>
